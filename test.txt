@@ -1,4 +1,4 @@
 using namespac std;
 int git ;
 int a;
-int b;
+int c;
